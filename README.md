@@ -1,5 +1,6 @@
 # ts_modeling
 
+```mermaid
 flowchart TD
     classDef done fill:#2da44e,color:#fff,stroke-width:0px
     classDef prog fill:#0969da,color:#fff,stroke-width:0px
@@ -24,3 +25,4 @@ flowchart TD
     S1 --> S5
     S3 --> S5
     S6 --> S4
+```
